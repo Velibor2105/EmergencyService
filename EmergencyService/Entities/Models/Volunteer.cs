@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Entites.Models
+namespace Entities.Models
 {
     public class Volunteer : IEntity<Guid>
     {

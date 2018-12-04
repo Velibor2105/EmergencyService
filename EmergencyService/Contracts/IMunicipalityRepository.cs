@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Entites
+namespace Contracts
 {
-    interface IEntity<T>
+    public interface IMunicipalityRepository
     {
-        T Id { get; set; }
     }
 }
